@@ -36,7 +36,7 @@ Welcome to the **Coffee Website** – a beautifully designed website for coffee 
 ---
 
 ## 📂 Project Structure  
-```plaintext
+
 Coffee-Website/
 │── index.html         # Main homepage
 │── style.css          # Stylesheet
@@ -49,5 +49,10 @@ Coffee-Website/
 
 ## 🛠️ How to Use?  
 1. Clone this repository:  
-   ```sh
    git clone https://github.com/rajat2213/Coffee-Website.git
+📬 Contact
+If you have any questions or feedback, feel free to connect:
+📧 Email: rajat2213@example.com
+🐙 GitHub: @rajat2213
+
+Feel free to modify this README as needed! 🚀🔥
