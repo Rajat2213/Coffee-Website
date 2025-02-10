@@ -52,7 +52,7 @@ Coffee-Website/
    git clone https://github.com/rajat2213/Coffee-Website.git
 📬 Contact
 If you have any questions or feedback, feel free to connect:
-📧 Email: rajat2213@example.com
+📧 Email: rajat.panpher14@gmail.com
 🐙 GitHub: @rajat2213
 
 Feel free to modify this README as needed! 🚀🔥
